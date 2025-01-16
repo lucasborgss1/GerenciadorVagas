@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-size: cover;
+  background: linear-gradient(100deg, #e6e6e6, #ffffff);
+}
+
+body,
+button,
+input {
+  font-family: "Ubuntu", serif;
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "ContainingType": "GerenciadorVagas.Controllers.VagasController",
+    "Method": "CriarVaga",
+    "RelativePath": "api/Vagas/CriarVaga",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "criacaoVagaDto",
+        "Type": "GerenciadorVagas.Dto.CriacaoVagaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GerenciadorVagas.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[GerenciadorVagas.Models.VagasModel, GerenciadorVagas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GerenciadorVagas.Controllers.VagasController",
+    "Method": "EditarVaga",
+    "RelativePath": "api/Vagas/EditarVaga",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idVaga",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "edicaoVagaDto",
+        "Type": "GerenciadorVagas.Dto.EdicaoVagaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GerenciadorVagas.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[GerenciadorVagas.Models.VagasModel, GerenciadorVagas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GerenciadorVagas.Controllers.VagasController",
+    "Method": "ExcluirVaga",
+    "RelativePath": "api/Vagas/ExcluirVaga",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idVaga",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GerenciadorVagas.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[GerenciadorVagas.Models.VagasModel, GerenciadorVagas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GerenciadorVagas.Controllers.VagasController",
+    "Method": "ListarVagas",
+    "RelativePath": "api/Vagas/ListarVagas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GerenciadorVagas.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[GerenciadorVagas.Models.VagasModel, GerenciadorVagas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

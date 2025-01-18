@@ -272,7 +272,6 @@ C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\Geren
 C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\GerenciadorVagas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GerenciadorVagas.props
 C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\GerenciadorVagas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GerenciadorVagas.props
 C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\GerenciadorVagas\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\GerenciadorVagas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\GerenciadorVagas\obj\Debug\net8.0\Gerencia.9102C5C4.Up2Date
 C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\GerenciadorVagas\obj\Debug\net8.0\GerenciadorVagas.dll
 C:\Users\lucas\source\repos\lucasborgss1\GerenciadorVagas\GerenciadorVagas\GerenciadorVagas\obj\Debug\net8.0\refint\GerenciadorVagas.dll

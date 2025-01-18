@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neias\\Documents\\GerenciadorVagasAPI\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj": {}
+    "C:\\Users\\lucas\\source\\repos\\lucasborgss1\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neias\\Documents\\GerenciadorVagasAPI\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\lucasborgss1\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neias\\Documents\\GerenciadorVagasAPI\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\lucasborgss1\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj",
         "projectName": "GerenciadorVagas",
-        "projectPath": "C:\\Users\\neias\\Documents\\GerenciadorVagasAPI\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj",
-        "packagesPath": "C:\\Users\\neias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neias\\Documents\\GerenciadorVagasAPI\\GerenciadorVagas\\GerenciadorVagas\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\lucasborgss1\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\lucasborgss1\\GerenciadorVagas\\GerenciadorVagas\\GerenciadorVagas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\neias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -52,23 +52,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[9.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

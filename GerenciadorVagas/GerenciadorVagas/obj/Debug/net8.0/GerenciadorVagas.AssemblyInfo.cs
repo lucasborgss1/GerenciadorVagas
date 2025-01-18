@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorVagas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a7d01ded44b88e8850d7528b030fc7f62727a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorVagas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorVagas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

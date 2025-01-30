@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\GerenciadorVagas",
-    "\\GerenciadorVagas\\Data"
+    "\\GerenciadorVagas\\Models"
   ],
-  "SelectedNode": "\\GerenciadorVagas\\Program.cs",
+  "SelectedNode": "\\GerenciadorVagas\\Models\\VagasModel.cs",
   "PreviewInSolutionExplorer": false
 }
